@@ -1,1 +1,2 @@
-# Skybridge Console UI - Clean layout build
+# Skybridge Console
+This is the final deployment-ready code.
